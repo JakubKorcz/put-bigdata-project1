@@ -1,0 +1,3 @@
+com\example\bigdata\ProjectBigData.class
+com\example\bigdata\ProjectBigData$CarSalesMapper.class
+com\example\bigdata\ProjectBigData$CarSalesReducer.class

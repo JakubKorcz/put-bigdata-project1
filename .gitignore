@@ -1,0 +1,37 @@
+# Ignoruj katalogi Maven
+/target/
+
+# Ignoruj pliki logów
+*.log
+
+# Ignoruj pliki generowane przez IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Ignoruj pliki konfiguracyjne systemu operacyjnego
+.DS_Store
+Thumbs.db
+
+# Ignoruj pliki kompilacji Javy
+*.class
+
+# Ignoruj inne katalogi kompilacji (jeśli istnieją)
+/out/
+/bin/
+
+# Ignoruj dane specyficzne dla systemu budowania
+*.war
+*.ear
+
+# Ignoruj pliki tymczasowe i kopie zapasowe
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Ignoruj pliki specyficzne dla IDE, które nie są związane z IntelliJ
+*.classpath
+*.project
+.settings/
